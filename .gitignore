@@ -39,6 +39,8 @@
 
 *.eps
 
+*.scr
+
 # file locks introduced since 7.x
 *.lck
 
